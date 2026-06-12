@@ -1,0 +1,5 @@
+customtkinter
+minecraft-launcher-lib
+Pillow
+requests
+PyJWT
